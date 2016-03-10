@@ -44,6 +44,4 @@ var UsersController = function(app){
 
 };
 
-
-
 module.exports = UsersController;
