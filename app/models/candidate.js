@@ -17,7 +17,7 @@ var mongoose = require('mongoose'),
     payRate: String,
     startDate: Date,
     endDate: Date,
-    recruiter: String,
+    recruiterId: String,
     salesPerson: String
   });
 
